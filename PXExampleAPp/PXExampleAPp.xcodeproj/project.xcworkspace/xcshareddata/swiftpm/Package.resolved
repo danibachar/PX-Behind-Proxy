@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "px-ios-framework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/PerimeterX/px-iOS-Framework.git",
+      "state" : {
+        "revision" : "33cd49abafdbccbe62a469edb369e46670b1bd04",
+        "version" : "2.2.4"
+      }
+    }
+  ],
+  "version" : 2
+}
